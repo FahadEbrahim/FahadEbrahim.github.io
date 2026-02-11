@@ -11,54 +11,38 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **PhD in Computer Science**, University of Warwick, 2023 -- present
+  * Supervisor: Prof. Mike Joy
+  * Research theme: Artificial Intelligence and Human-Centred Computing
+* **MSc in Computer Science**, University of Warwick, 2021 -- 2022
+* **MSc in Computer Engineering**, Kuwait University, 2014 -- 2016
+* **BSc in Computer Engineering**, Kuwait University, 2009 -- 2013
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Senior Graduate Teaching Assistant**, University of Warwick (2023 -- present)
+  * CS917 - Foundations of Computing
+  * MA117 - Programming for Scientists
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Full-Time Teaching Assistant**, Kuwait University (2018 -- 2021)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+* **Technical Analyst/Professional**, Zain Telecom, Kuwait (2014 -- 2018)
+
+* **Junior Computer Engineer**, Ministry of Electricity and Water, Kuwait (2013 -- 2014)
+
+Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Best Tool award at NLBSE'24 (ICSE'24 workshop)
+* Best presentation award, Machine Learning track, Warwick Postgraduate Colloquium 2023
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

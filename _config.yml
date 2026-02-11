@@ -22,7 +22,7 @@ repository               : "FahadEbrahim/FahadEbrahim.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Fahad Ebrahim"
   pronouns         : # example: "he/him"
   bio              : "PhD Student in Computer Science, University of Warwick. Research in AI applied to Education, NLP, and Plagiarism Detection."

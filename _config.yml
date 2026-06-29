@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Fahad Ebrahim"
 title_separator          : "-"
 name                     : &name "Fahad Ebrahim"
-description              : &description "PhD Student in Computer Science at the University of Warwick"
+description              : &description "PhD Candidate in Computer Science at the University of Warwick"
 url                      : https://FahadEbrahim.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "FahadEbrahim/FahadEbrahim.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Fahad Ebrahim"
   pronouns         : # example: "he/him"
-  bio              : "PhD Student in Computer Science, University of Warwick. Research in AI applied to Education, NLP, and Plagiarism Detection."
+  bio              : "PhD Candidate in Computer Science, University of Warwick. Research in AI applied to Education, NLP, and Plagiarism Detection."
   location         : "Coventry, UK"
   employer         : "University of Warwick"
   uri              : "https://warwick.ac.uk/fac/sci/dcs/people/u2189918/"

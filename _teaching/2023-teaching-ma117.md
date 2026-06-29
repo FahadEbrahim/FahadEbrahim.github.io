@@ -8,4 +8,4 @@ date: 2023-01-01
 location: "Coventry, UK"
 ---
 
-Senior Graduate Teaching Assistant for MA117 (Programming for Scientists) at the University of Warwick.
+Senior Graduate Teaching Assistant for MA117 (Programming for Scientists) at the University of Warwick. Role: lab instructor.

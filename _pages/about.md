@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate in the [Department of Computer Science](https://warwick.ac.uk/fac/sci/dcs/) at the [University of Warwick](https://warwick.ac.uk/), supervised by [Prof. Mike Joy](https://warwick.ac.uk/fac/sci/dcs/people/Mike_Joy/). I am a scholarship holder at Kuwait's Public Authority for Applied Education and Training (PAAET). My research falls under the theme of Artificial Intelligence and Human-Centred Computing.
+I am a PhD Candidate in the [Department of Computer Science](https://warwick.ac.uk/fac/sci/dcs/) at the [University of Warwick](https://warwick.ac.uk/), supervised by [Prof. Mike Joy](https://warwick.ac.uk/fac/sci/dcs/people/m_s_joy/). I am a scholarship holder at Kuwait's Public Authority for Applied Education and Training (PAAET). My research falls under the theme of [Artificial Intelligence and Human-Centred Computing](https://warwick.ac.uk/fac/sci/dcs/research/aihcc/).
 
 My research focuses on applying Artificial Intelligence to Education, with particular emphasis on text similarity, plagiarism detection using Natural Language Processing, and source code plagiarism detection in computer science education.
 

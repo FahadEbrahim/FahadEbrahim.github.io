@@ -67,6 +67,8 @@ Service and Volunteering
 
 Selected Training and Workshops
 ======
+* Climate Change AI Virtual Summer School 2026 (12 modules completed), September 2026
+* UCREL NLP Summer School 2026, Lancaster University, July 2026
 * ELLIS ESSIR 2025, University of Wolverhampton, July 2025
 * 4th Cardiff NLP Summer Workshop, July 2025
 * Building LLM Applications, NVIDIA Deep Learning Institute, March 2025
